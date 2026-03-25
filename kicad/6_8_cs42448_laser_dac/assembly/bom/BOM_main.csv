@@ -1,0 +1,6 @@
+Item,Reference,Quantity,Value,Footprint,Manufacturer Part Number,Notes
+1,U1,1,CS42448,TBD,TBD,Populate after schematic capture
+2,U2,1,MCU or Teensy header set,TBD,TBD,Select final controller interface
+3,J1,1,Output connector,TBD,TBD,Define based on laser DAC cabling
+4,C*,TBD,Decoupling capacitors,TBD,TBD,Fill from finalized design
+5,R*,TBD,Filter and bias resistors,TBD,TBD,Fill from finalized design
