@@ -3840,6 +3840,14 @@
     "remote_path": "preserved/20261013/objects/c878ed2e65c2bd60fdccfef791e1e71ecba124b7.ino"
   },
   {
+    "source": "8CH-audio-Teensy-4.0-HW-20260416/alex6679-teensy-4-usbAudio/changedConfigfiles/boards.local.txt",
+    "repo": "teensy-4-usbAudio",
+    "blob": "a61212a63e0479f830a8cfb4f2a02c633671ef10",
+    "size": 2510,
+    "status": "staged",
+    "remote_path": "preserved/20261013/objects/a61212a63e0479f830a8cfb4f2a02c633671ef10.txt"
+  },
+  {
     "source": "8CH-audio-Teensy-4.0-HW-20260416/kicad/shield_size",
     "repo": "teensy-4-usbAudio",
     "blob": "3ff3d743db04e7b4bc1b7ea8f2d568adb6174b96",
